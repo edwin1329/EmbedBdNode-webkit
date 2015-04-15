@@ -1,0 +1,37 @@
+{
+  "nodejs": true,
+  "author": "Edwin Sepúlveda",
+  "window": {
+    "fullscreen": false,
+    "resizable": true,
+    "show": true,
+    "always-on-top": false,
+    "frame": true,
+    "title": "DB",
+    "height": 600,
+    "min_height": 200,
+    "visible": true,
+    "as_desktop": false,
+    "toolbar": true,
+    "min_width": 400,
+    "position": "center",
+    "show_in_taskbar": true,
+    "mac_icon": "icon.icns",
+    "exe_icon": "",
+    "transparent": false,
+    "width": 800,
+    "icon": "icon.png"
+  },
+  "version": "0.0.1",
+  "main": "index.html",
+  "description": "DB",
+  "js-flags": "",
+  "name": "DB",
+  "license": "MIT",
+  "single-instance": true,
+  "snapshot": "",
+  "node-main": "",
+  "dependencies": {
+    "nedb": "^1.1.2"
+  }
+}
