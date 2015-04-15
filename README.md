@@ -5,7 +5,7 @@
 
 (The MIT License)
 
-Copyright (c) 2013 Louis Chatriot &lt;louis.chatriot@gmail.com&gt;
+Copyright (c) 2015 Edwin Sepúlveda &lt;edwin1329@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
